@@ -64,7 +64,6 @@ project_root/
 
    ```bash
    git clone https://github.com/Qretnh/ToDoBot.git
-   cd todo-bot
    ```
 
 2. Создать `.env` в корне проекта (см. `.env.example`):
